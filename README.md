@@ -4,7 +4,7 @@ Docker file to buid an image (based in alpine) for test dns configurations, incl
 
 ## Installation
 
-Use this guide to follow instructions in order to create a docker image from docker file.
+Use this guide to follow instructions in order to create a docker image from docker file but dont forget to edit your domains file first!
 
 ```bash
 https://linuxize.com/post/how-to-build-docker-images-with-dockerfile/
