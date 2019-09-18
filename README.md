@@ -15,4 +15,6 @@ https://linuxize.com/post/how-to-build-docker-images-with-dockerfile/
 ```python
 1)Enter as many domains as you'd like in the 'domains' file.
 One domain per line.
-2)Run Docker Image
+2)Run Docker Image under | docker run -d -P --network host  *name of image* 
+
+
